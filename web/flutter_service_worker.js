@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "97d59079ad3a51105133a680b303f25c",
+  "assets/AssetManifest.json": "3cd38b1d8fdfd6d6fa0485625b919da1",
 "assets/assets/images/2.png": "6d6c01d9a894fb89749795ee2e9cf404",
-"assets/assets/images/CCHEF_CCJ.png": "5884fd464d93dee92d93bc35a442a67e",
 "assets/assets/images/ccju_logo.png": "2898aa264d8cef86e8d33e5a3d6ddc15",
+"assets/assets/images/CClogo.png": "1ba423b8b7df320160266de5d74c008f",
+"assets/assets/images/uc.png": "a778cc5925adfc62a5880c13756289fa",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
 "assets/NOTICES": "14e2d5a995b677dedf5196502f3cc558",
@@ -17,7 +18,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "e583cc061be93e9aa2561c132b6803fb",
 "/": "e583cc061be93e9aa2561c132b6803fb",
-"main.dart.js": "49bfb74464e67b916cc35c2701edabaf",
+"main.dart.js": "01049860fafd18ade9b07b30830a8fcb",
 "manifest.json": "a12712bc2f0379d490e1fb88ac9400bf"
 };
 
